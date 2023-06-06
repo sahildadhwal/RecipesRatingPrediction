@@ -1,4 +1,6 @@
-# Rating Prediction for Recipes
+# Rating Prediction for Recipes Report
+## Score: 28.0 / 28.0
+
 ## Project Objective:
 
 This project aims to evaluate and compare various machine learning models for predicting consumer ratings based on their reviews of recipes from Food.com. By leveraging different approaches and techniques, the objective is to identify the most effective model that can accurately predict consumer ratings.
